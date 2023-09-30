@@ -9,3 +9,8 @@ My new markdown
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+# Todos
+- [x] Learn git
+- [ ] Create new project
+- [ ] Create a repository
